@@ -2,3 +2,5 @@ This Year Resolutiion
 1.Make Game 2D
 2.Clear All Assigment
 3.Finish the Animation
+4.Learning OOP PHP
+5.Learning Git & Github
